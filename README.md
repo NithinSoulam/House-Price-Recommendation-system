@@ -1,1 +1,4 @@
 # House-Price-Recommendation-system
+Predicting house prices is an important objective. Recent studies have found that asset prices can help to forecast output and inflation. Changes in housing prices can provide knowledge about consumption and inflation. In the business cycle, housing market play an important role. Studying Housing sales and prices is necessary to understand demand and supply.
+
+Models that can forecast housing prices can provide policy makers and economists with an idea about the future economy and therefore, help them design better policies. It can also help economists to estimate prepayments, housing mortgage and housing affordability. In recent years, machine learning has become a popular approach to predict house prices based on its attributes. Predicting house prices is usually approached as a regression problem.
